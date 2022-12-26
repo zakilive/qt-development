@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>py.png</file>
+        <file>java.png</file>
+        <file>cpp.png</file>
+    </qresource>
+</RCC>
